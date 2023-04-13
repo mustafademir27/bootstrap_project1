@@ -1,0 +1,106 @@
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+
+}
+
+.hakkimizda{
+    font-family: sans-serif;
+    background-color: #f2f2f2;
+
+}
+
+.ekip{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.ikon{
+    font-size: 50px;
+}
+
+.cizgi{
+    border: none;
+    border-top: 3px solid rgb(0, 0, 0);
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igri{
+    position: relative; /*akışı bozmadan yukarıdan aşağıdan konumlanabilme*/
+    font-size: 40px;
+    top: -55px;
+    background-color: #f2f2f2;
+    border: 10px solid #f2f2f2;
+    
+}
+
+.cizgi2{
+    color: black;
+    border-top: 3px solid;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ikon2{
+    font-size: 40px;
+    position: relative;
+    top: -55px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.col img:hover{
+    opacity: 0.8;
+}
+
+.galerimiz{
+    font-size:40px;
+    font-family: sans-serif;
+    background-color: #f2f2f2;
+}
+
+.ikon3{
+    background-color: #f2f2f2;
+    position: relative;
+    top: -55px;
+    border: 10px solid #f2f2f2;
+}
+
+.cizgi3{
+    width: 250px;
+    margin: 25px auto;
+    border-top: 3px solid ;
+}
+
+.figure img:hover{
+    opacity: 0.5;
+}
+
+.container .iletisim{
+    font-size:40px;
+    font-family:sans-serif ;
+}
+
+.cizgi4{
+    max-width: 250px;
+    margin: 25px auto;
+    border-top: 3px solid black;
+}
+
+.ikon4{
+    position: relative;
+    top: -55px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.row input,.kutu{
+    width: 600px;
+    margin: 10px auto;
+}
